@@ -1,2 +1,2 @@
-<h1> Sistema dew Registro </h1> 
+<h1> Sistema de Registro</h1> 
 - Estado del Proyecto: En Contrucción.
